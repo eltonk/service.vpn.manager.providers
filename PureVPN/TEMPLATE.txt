@@ -19,6 +19,4 @@ explicit-exit-notify 2
 script-security 2
 #REMOVE1float
 #REMOVE2auth-nocache
-up #RESOLVE
-down #RESOLVE
 ifconfig-nowarn
