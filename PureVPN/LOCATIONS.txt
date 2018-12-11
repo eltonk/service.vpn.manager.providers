@@ -1,0 +1,278 @@
+Afghanistan (TCP),vlus-af1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Afghanistan (UDP),vlus-af1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Albania (TCP),al1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Albania (UDP),al1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Algeria (TCP),vlus-dz1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Algeria (UDP),vlus-dz1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Angola (TCP),vlus-ao1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Angola (UDP),vlus-ao1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Argentina (TCP),vlus-ar1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Argentina (UDP),vlus-ar1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Armenia (TCP),vleu-am1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Armenia (UDP),vleu-am1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Aruba (TCP),aw1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Aruba (UDP),aw1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Australia (TCP),au-pe1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Australia (UDP),au-pe1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Austria (TCP),at1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Austria (UDP),at1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Azerbaijan (TCP),az1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Azerbaijan (UDP),az1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Bahrain (TCP),bh-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Bahrain (UDP),bh-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Bangladesh (TCP),vlus-bd1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Bangladesh (UDP),vlus-bd1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Barbados (TCP),vleu-bb-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Barbados (UDP),vleu-bb-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Belgium (TCP),vleu-be1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Belgium (UDP),vleu-be1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Belize (TCP),bz1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Belize (UDP),bz1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Bermuda (TCP),vleu-bm-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Bermuda (UDP),vleu-bm-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Bolivia (TCP),vleu-bo-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Bolivia (UDP),vleu-bo-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Bosnia and Herzegovina (TCP),ba1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Bosnia and Herzegovina (UDP),ba1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Brazil (TCP),br1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Brazil (UDP),br1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+British Virgin Islands (TCP),vg1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+British Virgin Islands (UDP),vg1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Brunei (TCP),bn1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Brunei (UDP),bn1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Bulgaria (TCP),bg1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Bulgaria (UDP),bg1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Cambodia (TCP),kh1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Cambodia (UDP),kh1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Canada (TCP),cato-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Canada (UDP),cato-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Cape Verde (TCP),vleu-cv-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Cape Verde (UDP),vleu-cv-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Cayman Islands (TCP),vleu-ky-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt 
+Cayman Islands (UDP),vleu-ky-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Chile (TCP),vlbr-cl-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Chile (UDP),vlbr-cl-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+China (TCP),cn-hn1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+China (UDP),cn-hn1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Colombia (TCP),co1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Colombia (UDP),co1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Costa Rica (TCP),vlus-cr1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Costa Rica (UDP),vlus-cr1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Croatia (TCP),vlus-hr1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Croatia (UDP),vlus-hr1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Cuba (TCP),cu1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Cuba (UDP),cu1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Cyprus (TCP),cy1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Cyprus (UDP),cy1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Denmark (TCP),vleu-dk1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Denmark (UDP),vleu-dk1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Dominica (TCP),vleu-dm-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Dominica (UDP),vleu-dm-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Dominican Republic (TCP),vleu-do-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Dominican Republic (UDP),vleu-do-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Ecuador (TCP),ec1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Ecuador (UDP),ec1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Egypt (TCP),vlus-eg1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Egypt (UDP),vlus-eg1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+El Salvador (TCP),vleu-sv-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+El Salvador (UDP),vleu-sv-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Estonia (TCP),ee1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Estonia (UDP),ee1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Ethiopia (TCP),et1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Ethiopia (UDP),et1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+France (TCP),fr1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+France (UDP),fr1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Georgia (TCP),vlus-ge1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Georgia (UDP),vlus-ge1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Germany (TCP),de-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Germany (UDP),de-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Ghana (TCP),gh1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Ghana (UDP),gh1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Greece (TCP),gr1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Greece (UDP),gr1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Grenada (TCP),vleu-gd-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Grenada (UDP),vleu-gd-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Guatemala (TCP),vleu-gt-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Guatemala (UDP),vleu-gt-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Guyana (TCP),vleu-gy-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Guyana (UDP),vleu-gy-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Haiti (TCP),vls1360101-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Haiti (UDP),vls1360101-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Honduras (TCP),vleu-hn-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Honduras (UDP),vleu-hn-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Hong Kong SAR (TCP),hk1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Hong Kong SAR (UDP),hk1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Hungary (TCP),hu1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Hungary (UDP),hu1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Iceland (TCP),is1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Iceland (UDP),is1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+India (TCP),in1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+India (UDP),in1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Indonesia (TCP),idn1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Indonesia (UDP),idn1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Ireland (TCP),ie1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Ireland (UDP),ie1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Isle of Man (TCP),im1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Isle of Man (UDP),im1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Italy (TCP),vlus-it1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Italy (UDP),vlus-it1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Jamaica (TCP),jm1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Jamaica (UDP),jm1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Japan (TCP),jp-tk1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Japan (UDP),jp-tk1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Jordan (TCP),vlus-jo1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Jordan (UDP),vlus-jo1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Kazakhstan (TCP),vlus-kz1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Kazakhstan (UDP),vlus-kz1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Kenya (TCP),ke1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Kenya (UDP),ke1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Korea South (TCP),kr1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Korea South (UDP),kr1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Kuwait (TCP),vlus-kw1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Kuwait (UDP),vlus-kw1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Kyrgyzstan (TCP),vlus-kg1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Kyrgyzstan (UDP),vlus-kg1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Laos (TCP),vlus-la1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Laos (UDP),vlus-la1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Latvia (TCP),lv1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Latvia (UDP),lv1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Lebanon (TCP),lb1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Lebanon (UDP),lb1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Liechtenstein (TCP),li1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Liechtenstein (UDP),li1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Lithuania (TCP),lt1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Lithuania (UDP),lt1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Luxembourg (TCP),lu-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Luxembourg (UDP),lu-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Macao (TCP),mo1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Macao (UDP),mo1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Madagascar (TCP),vlus-mg1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Madagascar (UDP),vlus-mg1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Malaysia (TCP),my-kl1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Malaysia (UDP),my-kl1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Malta (TCP),mt1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Malta (UDP),mt1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Mauritania (TCP),vlus-mr1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Mauritania (UDP),vlus-mr1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Mauritius (TCP),mu1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Mauritius (UDP),mu1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Mexico (TCP),vlus-mx1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Mexico (UDP),vlus-mx1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Moldova (TCP),md1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Moldova (UDP),md1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Monaco (TCP),mn1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Monaco (UDP),mn1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Mongolia (TCP),vlus-mn1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Mongolia (UDP),vlus-mn1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Montenegro (TCP),vleu-me1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Montenegro (UDP),vleu-me1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Montserrat (TCP),vleu-ms-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Montserrat (UDP),vleu-ms-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Morocco (TCP),ma1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Morocco (UDP),ma1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Myanmar (TCP),vlus-mm1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Myanmar (UDP),vlus-mm1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Netherlands (TCP),nl1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Netherlands (UDP),nl1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+New Zealand (TCP),nz-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+New Zealand (UDP),nz-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Nicaragua (TCP),vleu-ni-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Nicaragua (UDP),vleu-ni-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Niger (TCP),vlus-ne1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Niger (UDP),vlus-ne1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Nigeria (TCP),ng1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Nigeria (UDP),ng1-ovpn-Udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Norway (TCP),vleu-no1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Norway (UDP),vleu-no1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Oman (TCP),om1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Oman (UDP),om1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Pakistan (TCP),pk1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Pakistan (UDP),pk1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Panama (TCP),vlus-pa-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Panama (UDP),vlus-pa-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Papua New Guinea (TCP),vlus-pg1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Papua New Guinea (UDP),vlus-pg1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Paraguay (TCP),vleu-py-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Paraguay (UDP),vleu-py-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Peru (TCP),pe1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Peru (UDP),pe1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Philippines (TCP),vlap-ph1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Philippines (UDP),vlap-ph1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Poland (TCP),pl1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Poland (UDP),pl1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Portugal (TCP),pt1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Portugal (UDP),pt1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Puerto Rico (TCP),pr1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Puerto Rico (UDP),pr1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Qatar (TCP),qa1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Qatar (UDP),qa1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Romania (TCP),ro1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Romania (UDP),ro1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Russia (TCP),vlus-ru1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Russia (UDP),vlus-ru1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Saint Lucia (TCP),vleu-lc-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Saint Lucia (UDP),vleu-lc-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Saudi Arabia (TCP),sa1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Saudi Arabia (UDP),sa1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Senegal (TCP),vlus-sn1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Senegal (UDP),vlus-sn1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Serbia (TCP),rs1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Serbia (UDP),rs1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Seychelles (TCP),sc1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Seychelles (UDP),sc1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Singapore (TCP),sg1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Singapore (UDP),sg1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Slovakia (TCP),sk1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Slovakia (UDP),sk1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Slovenia (TCP),si1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Slovenia (UDP),si1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+South Africa (TCP),za1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+South Africa (UDP),za1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Spain (TCP),es-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Spain (UDP),es-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Sri Lanka (TCP),vlus-lk1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Sri Lanka (UDP),vlus-lk1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Suriname (TCP),vleu-sr-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Suriname (UDP),vleu-sr-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Sweden (TCP),vlus-se1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Sweden (UDP),se1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Switzerland (TCP),ch1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Switzerland (UDP),ch1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Syria (TCP),sy1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Syria (UDP),sy1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Taiwan (TCP),tw1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Taiwan (UDP),tw1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Tajikistan (TCP),vlus-tj-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Tajikistan (UDP),vlus-tj-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Tanzania (TCP),vlus-tz1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Tanzania (UDP),vlus-tz1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Thailand (TCP),vlap-th1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Thailand (UDP),vlap-th1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+The Bahamas (TCP),bs1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+The Bahamas (UDP),bs1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Trinidad and Tobago (TCP),vleu-tt-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Trinidad and Tobago (UDP),vleu-tt-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Tunisia (TCP),vlus-tn1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Tunisia (UDP),vlus-tn1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Turkey (TCP),vlus-tr1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Turkey (UDP),vlus-tr1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Turkmenistan (TCP),vlus-tm1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Turkmenistan (UDP),vlus-tm1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Turks and Caicos Islands (TCP),vleu-tc-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Turks and Caicos Islands (UDP),vleu-tc-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Ukraine (TCP),ua1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Ukraine (UDP),ua1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+United Arab Emirates (TCP),ae1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+United Arab Emirates (UDP),ae1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+United Kingdom (TCP),ukl1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+United Kingdom (UDP),ukl1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+United States (TCP),usny1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+United States (UDP),usny1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Uzbekistan (TCP),vlus-uz-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Uzbekistan (UDP),vlus-uz-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Venezuela (TCP),ve1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Venezuela (UDP),ve1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Vietnam (TCP),vlap-vn1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Vietnam (UDP),vlap-vn1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
+Yemen (TCP),ym1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2 #CERT=ca.crt
+Yemen (UDP),ym1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1 #CERT=ca.crt
